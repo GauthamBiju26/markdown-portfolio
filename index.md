@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% ![Image of Grizzly Bear](https://www.kissclipart.com/bear-grizzly-bear-brown-bear-roar-cartoon-nbj1oo/download-clipart.html) %}
+{% ![Beast](https://www.pexels.com/photo/ancient-metal-pattern-on-stone-surface-5277398/) %}
 
 <br>
 
