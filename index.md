@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include![Beast](https://www.pexels.com/photo/ancient-metal-pattern-on-stone-surface-5277398/)%}
+{% include ![Beast](https://www.pexels.com/photo/ancient-metal-pattern-on-stone-surface-5277398/)%}
 <br>
 
 {% include 03-links.md %}
