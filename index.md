@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+{% ![Image of Grizzly Bear](https://www.kissclipart.com/bear-grizzly-bear-brown-bear-roar-cartoon-nbj1oo/download-clipart.html) %}
 
 <br>
 
