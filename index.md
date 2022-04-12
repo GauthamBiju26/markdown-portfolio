@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)%}
+{% include![Beast](https://www.pexels.com/photo/ancient-metal-pattern-on-stone-surface-5277398/)%}
 <br>
 
 {% include 03-links.md %}
