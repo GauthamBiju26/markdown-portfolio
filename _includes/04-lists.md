@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Sleep
+- :smile:
+- Cricket
+- Web Series
